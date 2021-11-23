@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@gnodi/ecma-version": "^8.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.16.3"
+  }
+}
